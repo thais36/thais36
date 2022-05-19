@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taioli91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taioli91" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/thais-almeida-678a23224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/thais-almeida-678a23224" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/288946/thais-almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/288946/thais-almeida" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/thais-almeida-678a23224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/thais-almeida-678a23224" height="30" width="40" /></a>
+<a href="https://pt.stackoverflow.com/users/288946/thais-almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/288946/thais-almeida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
