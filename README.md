@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thais Almeida</h1>
-<h3 align="center">A student developer</h3>
+<h3 align="center">Software development student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thais36&label=Profile%20views&color=0e75b6&style=flat" alt="thais36" /> </p>
 
