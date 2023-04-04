@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou a Thais Almeida</h1>
 <h3 align="center">Sou estudante de Desenvolvimento de Software Multiplataforma</h3>
 
-<br><p align="left">  👯 Eu estou colaborando na construção da [lead page: atletica-fatec-zona-leste](https://web23.herokuapp.com/index.html)</p>
+<br><p align="left">  👯 Eu estou colaborando na construção da [lead page: Atlética da FATEC Zona Leste](https://web23.herokuapp.com/index.html)</p>
 
 <p align="left"> 📫 Meu e-mail **thais.almeida14@fatec.sp.gov.br**</p> </br>
 
