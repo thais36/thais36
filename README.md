@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, Eu sou a Thais Almeida</h1>
+<h1 align="center">Olá 👋, Me chamo Thais Almeida</h1>
 <h3 align="center">Sou estudante de Desenvolvimento de Software Multiplataforma</h3>
 
-<br><p align="left">  👯 Eu estou colaborando na construção da [lead page: atletica-fatec-zl](https://thais36.github.io/)</p>
+<br><p align="left">  👯 Eu estou colaborando na construção da [lead page: atletica-fatec-zl]([https://thais36.github.io/](https://web23.herokuapp.com/index.html)</p>
 
-<p align="left"> 📫 Pode me contactar pelo e-mail **thais.almeida14@fatec.sp.gov.br**</p> </br>
+<p align="left"> 📫 Meu e-mail **thais.almeida14@fatec.sp.gov.br**</p> </br>
 
 <p align="right"> <a href="https://twitter.com/taioli91" target="blank"><img src="https://img.shields.io/twitter/follow/taioli91?logo=twitter&style=for-the-badge" alt="taioli91" /></a> </p>
 
