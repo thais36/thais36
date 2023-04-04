@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Thais Almeida</h1>
+<h1 align="center">Olá 👋, Sou a Thais Almeida</h1>
 <h3 align="center">Sou estudante de Desenvolvimento de Software Multiplataforma</h3>
 
 <br><p align="left">  👯 Eu estou colaborando na construção da [lead page: atletica-fatec-zl]([https://thais36.github.io/](https://web23.herokuapp.com/index.html)</p>
