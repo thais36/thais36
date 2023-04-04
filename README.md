@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Sou a Thais Almeida</h1>
 <h3 align="center">👩🏻‍🎓 Sou estudante de Desenvolvimento de Software Multiplataforma</h3>
-<h3 align="center">Curso o 4º Semestre na FATEC Zona Leste</h3>
+<h3 align="rigth">Curso o 4º Semestre na FATEC Zona Leste</h3>
 
 <br><p align="left">🖥️ Eu estou colaborando na construção do [site: Atlética da FATEC Zona Leste](https://web23.herokuapp.com/index.html)</p>
 
