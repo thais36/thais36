@@ -2,7 +2,7 @@
 <h3 align="center">👩🏻‍🎓 Sou estudante de Desenvolvimento de Software Multiplataforma</h3>
 <h3 align="right">Estou no 4º Semestre na FATEC Zona Leste</h3>
 
-<br><p align="left">🖥️ Eu estou colaborando na construção do [site: Atlética da FATEC Zona Leste](https://web23.herokuapp.com/index.html)</p>
+<br><p align="left">🖥️ Eu estou colaborando na construção do [site: Atlética da FATEC Zona Leste](https://atletica2023.netlify.app/)</p>
 
 <p align="left"> ✉️ Meu e-mail **thais.almeida14@fatec.sp.gov.br**</p> </br>
 
