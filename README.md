@@ -2,9 +2,11 @@
 <h3 align="center">👩🏻‍🎓 Sou estudante de Desenvolvimento de Software Multiplataforma</h3>
 <h3 align="right">Estou no 4º Semestre na FATEC Zona Leste</h3>
 
-<br><p align="left">🖥️ Eu estou colaborando na construção do [site: Atlética da FATEC Zona Leste](https://atletica2023.netlify.app/)</p>
+<br><p align="left">🖥️ Eu estou colaborando na construção do site: [Atlética da FATEC Zona Leste](https://atletica2023.netlify.app/)</p>
 
-<p align="left"> ✉️ Meu e-mail **thais.almeida14@fatec.sp.gov.br**</p> </br>
+<br><p align="left">🐠 Meu Perfil no linkedin é: [Thais Almeida](https://www.linkedin.com/in/thais-almeida-678a23224/)</p>
+
+<p align="left"> ✉️ Meu e-mail é **thais.almeida14@fatec.sp.gov.br**</p>
 
 <p align="right"> <a href="https://twitter.com/taioli91" target="blank"><img src="https://img.shields.io/twitter/follow/taioli91?logo=twitter&style=for-the-badge" alt="taioli91" /></a></p>
 
