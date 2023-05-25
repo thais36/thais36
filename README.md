@@ -1,4 +1,4 @@
-<p align="right"> <a href="https://twitter.com/taioli91" target="blank"><img src="https://img.shields.io/twitter/follow/taioli91?logo=twitter&style=for-the-badge" alt="taioli91" /></a></p>
+<p align="right"> <a href="https://twitter.com/taioli91" target="blank"><img src="https://img.shields.io/twitter/follow/taioli91?logo=twitter&style=for-the-badge" alt="taioli91" /></a></p> 
 
 <h1 align="center">Olá 👋, Sou a Thaís Almeida</h1>
 <h3 align="center">👩🏻‍🎓 Sou estudante de Desenvolvimento de Software Multiplataforma</h3>
